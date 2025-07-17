@@ -7,7 +7,6 @@ import AboutPage from './pages/About';
 import ErrorPage from './pages/Error';
 import ProductDetailPage from './pages/ProductDetails';
 
-
 const router = createBrowserRouter([
   {
     path: '/',

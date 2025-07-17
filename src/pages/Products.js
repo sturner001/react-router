@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom';
 
-
 const PRODUCTS = [
 
     { id: 'p1', title: 'My Product 1' },
@@ -28,8 +27,5 @@ const ProductsPage = () => {
             </ul>
         </>
     );
-
-
-
 }
 export default ProductsPage;
